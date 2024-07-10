@@ -1,0 +1,26 @@
+.new{
+    margin: 15%;
+    width: 25%;
+    
+}
+.all{
+    margin: 5% 0.5%;
+    background-color: rgb(169, 65, 224);
+    
+}
+legend{
+    background-color: brown;
+    color: aliceblue;
+}
+*{
+    background-color: aquamarine;
+}
+fieldset{
+    background-color: rgb(169, 65, 224);
+}
+label{
+    background-color: rgb(169, 65, 224);
+}
+input+label{
+    
+}
